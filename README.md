@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leonardo Mudrik!
 
-### 💻 Desenvolvedor em formação | RPA & Automação | Python | Dados | Power BI
+### 💻 Desenvolvedor em formação | RPA & Automação | Python | Dados 
 
 Transformo **processos manuais e repetitivos em soluções tecnológicas**, utilizando desenvolvimento, automação e análise de dados para criar processos mais eficientes, organizados e confiáveis.
 
