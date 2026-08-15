@@ -54,70 +54,21 @@ Entre as atividades desenvolvidas estão:
 
 * Login e navegação automatizada em sistemas web;
 * Preenchimento de formulários;
+* Preenchimento automático de dados;
+* Aplicação de filtros de período;
 * Pesquisa e validação de registros;
 * Aplicação de filtros;
 * Download automatizado de arquivos;
 * Tratamento e consolidação de planilhas;
 * Validação de informações;
+* Limpeza e organização dos dados;
 * Atualização de bases;
 * Prevenção de duplicidades;
 * Integração entre dados e sistemas.
-
----
-
-## 🏗️ Projetos em destaque
-
-### 🚗 RPA C6 Veículos
-
-Automação desenvolvida para otimizar a atualização de bases utilizadas pela área de análise de Veículos.
-
-O projeto automatiza etapas como:
-
-* Acesso ao Looker;
-* Aplicação de filtros de período;
-* Download de bases;
-* Tratamento de arquivos Excel;
-* Limpeza e organização dos dados;
-* Atualização das bases;
+* Geração de arquivos de saída.
 * Controle de dados para evitar duplicidades.
 
 **Tecnologias:** `Python` `Playwright` `Pandas` `Excel` `RPA`
-
----
-
-### 📊 Automação Senff Consig
-
-Automação desenvolvida para percorrer diferentes **Lojas/Promotoras**, consultar períodos de produção e realizar o download das respectivas bases.
-
-O processo contempla:
-
-* Navegação automatizada;
-* Seleção de diferentes unidades;
-* Consulta de período;
-* Download de relatórios;
-* Tratamento dos dados;
-* Consolidação das informações;
-* Geração de arquivos de saída.
-
-**Tecnologias:** `Python` `Playwright` `Pandas` `Excel`
-
----
-
-### ⚙️ Automações — Storm / Única Promotora
-
-Desenvolvimento de automações para processos internos envolvendo gerenciamento e validação de usuários.
-
-Entre as funcionalidades trabalhadas:
-
-* Pesquisa automatizada;
-* Validação de usuários;
-* Comparação de informações entre sistemas e planilhas;
-* Preenchimento automático de dados;
-* Processamento de informações;
-* Automatização de tarefas operacionais.
-
-**Tecnologias:** `Python` `Playwright` `Pandas` `Excel`
-
 ---
 
 ## 🧠 Minha abordagem
@@ -175,7 +126,6 @@ Também venho desenvolvendo conhecimentos na área de **Dados e Business Intelli
 
 Experiência com:
 
-* Power BI;
 * Power Query;
 * Tratamento de dados;
 * Pandas;
@@ -207,29 +157,14 @@ Cursos e estudos realizados através da **Alura**, incluindo:
 * 🌐 HTML e CSS
 * 💻 Lógica de Programação com JavaScript
 * ⚙️ C#
-* 📊 Power BI
 
 ---
 
 ## 🎯 Atualmente
 
-Estou direcionando minha evolução profissional para áreas relacionadas a:
-
 **Desenvolvimento de Software • RPA • Automação • Python • Dados • APIs • Business Intelligence**
 
-Busco continuar desenvolvendo soluções que aproximem **tecnologia e negócio**, transformando problemas operacionais em processos mais eficientes através da automação.
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoUnica\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoUnica\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
+Busco continuar desenvolvendo soluções que aproximem **tecnologia e negócio**, transformando problemas operacionais em processos mais eficientes.
 
 ---
 
